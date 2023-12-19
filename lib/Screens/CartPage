@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+class CartPage1 extends StatelessWidget {
+  const CartPage({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Color(0xffb5dfe3),
+        centerTitle: true,
+        title: Text('Cart'),
+
+      ),
+      
+      body:Column(
+        children:[
+
+
+        ]
+      )
+      
+      );}}
